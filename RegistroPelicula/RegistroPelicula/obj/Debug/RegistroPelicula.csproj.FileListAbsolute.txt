@@ -1,0 +1,15 @@
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\bin\Debug\RegistroPelicula.exe.config
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\bin\Debug\RegistroPelicula.exe
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\bin\Debug\RegistroPelicula.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\obj\Debug\RegistroPelicula.csprojResolveAssemblyReference.cache
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\obj\Debug\RegistroPelicula.RegistroPelicula.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\obj\Debug\RegistroPelicula.Nuevo.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\obj\Debug\RegistroPelicula.Properties.Resources.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\obj\Debug\RegistroPelicula.csproj.GenerateResource.Cache
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\obj\Debug\RegistroPelicula.exe
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\obj\Debug\RegistroPelicula.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\obj\Debug\RegistroPelicula.Eliminar.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea # [10] - Aplicada I - [Junior Santiago Guillen Zorrilla]\RegistroPelicula\RegistroPelicula\obj\Debug\RegistroPelicula.Guardar.resources
+C:\GitHub\Registro-Pelicula\RegistroPelicula\RegistroPelicula\bin\Debug\RegistroPelicula.exe.config
+C:\GitHub\Registro-Pelicula\RegistroPelicula\RegistroPelicula\obj\Debug\RegistroPelicula.exe
+C:\GitHub\Registro-Pelicula\RegistroPelicula\RegistroPelicula\obj\Debug\RegistroPelicula.pdb
